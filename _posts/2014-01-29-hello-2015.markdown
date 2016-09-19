@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "你好，博客"
+subtitle:   " \"This is Hello World, Hello Blog\""
+date:       2016-09-19
+author:     "Esir"
+
+catalog: true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+Esirong 的 Blog 就这么开通了。
+
+
+找个地方可以好好写点东西了。
